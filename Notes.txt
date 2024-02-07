@@ -1,0 +1,23 @@
+
+
+Converting standard TF model to TFlite
+https://www.tensorflow.org/lite/models/convert/convert_models
+
+Training Set
+Training set is acquired from AffectNet. Please request the organizer for the dataset via http://mohammadmahoor.com/affectnet-request-form/
+
+Realtime Face Emotion Recognition
+https://www.youtube.com/watch?v=avv9GQ3b6Qg&ab_channel=DeepLearning_by_PhDScholar
+
+Regression models
+https://towardsdatascience.com/top-machine-learning-algorithms-for-regression-c67258a2c0ac
+
+
+Asset folder notes
+aro.npy - single data containing Arousal data (-1 to 1)
+exp.npy - single data containing expression data (0: Neutral, 1: Happy, 2: Sad, 3: Surprise, 4: Fear, 5: Disgust, 6: Anger, 7: Contempt)
+val.npy - sindle data containing Valence data (-1 to 1)
+lnd.npy - Contains 136 doubles of unknown data
+
+
+
