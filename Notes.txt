@@ -1,10 +1,8 @@
-
-
 Converting standard TF model to TFlite
 https://www.tensorflow.org/lite/models/convert/convert_models
 
 Training Set
-Training set is acquired from AffectNet. Please request the organizer for the dataset via http://mohammadmahoor.com/affectnet-request-form/
+Training set is acquired from AffectNet. To directly acquire it from the organizer, go to this website http://mohammadmahoor.com/affectnet-request-form/
 
 Realtime Face Emotion Recognition
 https://www.youtube.com/watch?v=avv9GQ3b6Qg&ab_channel=DeepLearning_by_PhDScholar
