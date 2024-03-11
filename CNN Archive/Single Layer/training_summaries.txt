@@ -1,0 +1,308 @@
+
+  model name: bs4_fls128.h
+  average lost: 1.095377042889595
+  average accuracy: 0.05625
+            
+
+
+  model name: bs4_fls128.h
+  average lost: 2.0817405462265013
+  average accuracy: 0.1247752521187067
+            
+
+
+  model name: bs4_fls256.h
+  average lost: 2.081738847494125
+  average accuracy: 0.1247752521187067
+            
+
+
+  model name: bs4_fls384.h
+  average lost: 2.081790590286255
+  average accuracy: 0.1247752521187067
+            
+
+
+  model name: bs4_fls516.h
+  average lost: 2.08175927400589
+  average accuracy: 0.1247752521187067
+            
+
+
+  model name: bs4_fls772.h
+  average lost: 2.08172767162323
+  average accuracy: 0.1247752521187067
+            
+
+
+  model name: bs8_fls128.h
+  average lost: 4442.606793212891
+  average accuracy: 0.12502777781337499
+            
+
+
+  model name: bs8_fls256.h
+  average lost: 2.0810000777244566
+  average accuracy: 0.1247752521187067
+            
+
+
+  model name: bs8_fls384.h
+  average lost: 2.0972969800233843
+  average accuracy: 0.15878788037225605
+            
+
+
+  model name: bs8_fls516.h
+  average lost: 68192.18212890625
+  average accuracy: 0.13328282767906785
+            
+
+
+  model name: bs8_fls772.h
+  average lost: 100315.713671875
+  average accuracy: 0.12003282820805908
+            
+
+
+  model name: bs16_fls128.h
+  average lost: 5.5575717210769655
+  average accuracy: 0.1252777782268822
+            
+
+
+  model name: bs16_fls256.h
+  average lost: 6.1514387130737305
+  average accuracy: 0.1587904043495655
+            
+
+
+  model name: bs16_fls384.h
+  average lost: 88.81282606124878
+  average accuracy: 0.11927777770906686
+            
+
+
+  model name: bs16_fls516.h
+  average lost: 4.035716563463211
+  average accuracy: 0.1322904035449028
+            
+
+
+  model name: bs16_fls772.h
+  average lost: 39.98863878250122
+  average accuracy: 0.12353030322119593
+            
+
+
+  model name: bs32_fls128.h
+  average lost: 6.757082748413086
+  average accuracy: 0.1252853543497622
+            
+
+
+  model name: bs32_fls256.h
+  average lost: 11575.61982421875
+  average accuracy: 0.12003282830119133
+            
+
+
+  model name: bs32_fls384.h
+  average lost: 4.720616185665131
+  average accuracy: 0.13628282826393842
+            
+
+
+  model name: bs32_fls516.h
+  average lost: 4.18604765534401
+  average accuracy: 0.13802777770906688
+            
+
+
+  model name: bs32_fls772.h
+  average lost: 287787.20078125
+  average accuracy: 0.12078787842765451
+            
+
+
+  model name: bs48_fls128.h
+  average lost: 16.14712209701538
+  average accuracy: 0.12503282949328423
+            
+
+
+  model name: bs48_fls256.h
+  average lost: 29886.815771484376
+  average accuracy: 0.13527777818962933
+            
+
+
+  model name: bs48_fls384.h
+  average lost: 3120.680279541016
+  average accuracy: 0.12653282759711146
+            
+
+
+  model name: bs48_fls516.h
+  average lost: 2111536.303125
+  average accuracy: 0.1250303041189909
+            
+
+
+  model name: bs48_fls772.h
+  average lost: 15.189412808418274
+  average accuracy: 0.12653535283170642
+            
+
+--------------- ^1000 image per class -----------------
+--------------- below 3000 image per class -----------------
+
+  model name: bs4_fls128.h
+  average lost: 2.0841162264347077
+  average accuracy: 0.12477272721007467
+            
+
+
+  model name: bs4_fls256.h
+  average lost: 2.0836207032203675
+  average accuracy: 0.12502272734418513
+            
+
+
+  model name: bs4_fls384.h
+  average lost: 2.0836606204509733
+  average accuracy: 0.12502272734418513
+            
+
+
+  model name: bs4_fls516.h
+  average lost: 2.0836394131183624
+  average accuracy: 0.12502272734418513
+            
+
+
+  model name: bs4_fls772.h
+  average lost: 2.083677464723587
+  average accuracy: 0.12502272734418513
+            
+
+
+  model name: bs8_fls128.h
+  average lost: 194916.8890625
+  average accuracy: 0.1242878781631589
+            
+
+
+  model name: bs8_fls256.h
+  average lost: 3.1332749009132383
+  average accuracy: 0.25330555625259876
+            
+
+
+  model name: bs8_fls384.h
+  average lost: 3.3004710495471956
+  average accuracy: 0.17904040459543466
+            
+
+
+  model name: bs8_fls516.h
+  average lost: 8.119236016273499
+  average accuracy: 0.12652272675186396
+            
+
+
+  model name: bs8_fls772.h
+  average lost: 5.331481885910034
+  average accuracy: 0.12752777794376016
+            
+
+
+  model name: bs16_fls128.h
+  average lost: 11.051533603668213
+  average accuracy: 0.12377525214105844
+            
+
+
+  model name: bs16_fls256.h
+  average lost: 4.76596429347992
+  average accuracy: 0.162797979824245
+            
+
+
+  model name: bs16_fls384.h
+  average lost: 12.587452030181884
+  average accuracy: 0.12505808062851428
+            
+
+
+  model name: bs16_fls516.h
+  average lost: 5.599260663986206
+  average accuracy: 0.14228282831609249
+            
+
+
+  model name: bs16_fls772.h
+  average lost: 45.01498527526856
+  average accuracy: 0.12827272741124035
+            
+
+
+  model name: bs32_fls128.h
+  average lost: 703718.746875
+  average accuracy: 0.12502777753397823
+            
+
+
+  model name: bs32_fls256.h
+  average lost: 9.151524674892425
+  average accuracy: 0.12054292876273394
+            
+
+
+  model name: bs32_fls384.h
+  average lost: 49825.1064453125
+  average accuracy: 0.1212777771987021
+            
+
+
+  model name: bs32_fls516.h
+  average lost: 1288023.778125
+  average accuracy: 0.12528535388410092
+            
+
+
+  model name: bs32_fls772.h
+  average lost: 7851.763842773437
+  average accuracy: 0.11127777751535177
+            
+
+
+  model name: bs48_fls128.h
+  average lost: 162.2732442855835
+  average accuracy: 0.12702272785827518
+            
+
+
+  model name: bs48_fls256.h
+  average lost: 295.0206722259521
+  average accuracy: 0.13279040371999146
+            
+
+
+  model name: bs48_fls384.h
+  average lost: 9.763094222545623
+  average accuracy: 0.13280808087438345
+            
+
+
+  model name: bs48_fls516.h
+  average lost: 13.367520141601563
+  average accuracy: 0.14756565764546395
+            
+
+
+  model name: bs48_fls772.h
+  average lost: 31217326.95
+  average accuracy: 0.12505555553361775
+            
+
