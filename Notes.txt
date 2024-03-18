@@ -19,16 +19,4 @@ lnd.npy - Contains 136 doubles of unknown data
 
 
 
-Problems, Journey and Solutions
 
-Problem: 
-GPU kept running out of RAM, unable to train model effectively as OOM error kept appearing
-Journey: 
-Explored multiprocessing in python, GPU "per_process_gpu_memory_fraction" configuration and cuda reset. 
-Multiprocessing and GPU does not work, memory still remain high. Cuda reset will erase the data in gpu, but crashing the system too.
-Solution:
-Resetting Keras session worked, with:
-    sess = get_session()
-    clear_session()
-    sess.close()
-    sess = get_session()
